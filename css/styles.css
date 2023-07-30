@@ -1,0 +1,82 @@
+/**********TAG SELECTORS**********/
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+
+h1{
+    margin-bottom: 20px;
+}
+
+img{
+    height: 350px;
+    width: 400px;
+}
+
+button{
+    padding: 5px 10px;
+}
+
+/**********CLASS SELECTORS**********/
+
+.feranmi{
+    padding: 30px 20px;
+    border: 3px black solid;
+    height: 510px;
+}
+
+.wisdom{
+    background-color:navajowhite;
+    width: 400px;
+    position: absolute;
+    top: 105px;
+    left: 40px;
+    height: 500px;
+    border-top: 1px black solid;
+    border-left: 1px black solid;
+    border-bottom: 3px black outset;
+    border-right: 3px black outset;
+}
+
+.faithful{
+    background-color:navajowhite;
+    position: absolute;
+    top: 105px;
+    left: 420px;
+    margin: 0 50px;
+    height: 500px;
+    width: 400px;
+    border-top: 1px black solid;
+    border-left: 1px black solid;
+    border-bottom: 3px black outset;
+    border-right: 3px black outset;
+}
+
+.divine{
+    background-color: navajowhite;
+    position: absolute;
+    top: 105px;
+    left: 850px;
+    margin: 0 60px;
+    height: 500px;
+    width: 400px;
+    border-top: 1px black solid;
+    border-left: 1px black solid;
+    border-bottom: 3px black outset;
+    border-right: 3px black outset;
+}
+
+.fiyin{
+    width: 70%;
+    padding-left: 15px;
+}
+
+.btn{
+    background-color:lightsteelblue;
+}
+
+
+.but{
+background-color:thistle;
+}
